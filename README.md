@@ -1,7 +1,11 @@
 <img src="images/hero.png" width="100%" height="350" alt="html"> 
 
 # 💫 About Me:
-Motivated junior front-end developer. I love to learn new things so I am always in the learning process to improve my skill.
+Juinor Frontend developer hunger to write code and designing. I love to solve problems that motivated me to be web developer.
+Hard working with good knowledge of HTML, CSS, Javascript and Deep
+familiar with React and tailwind. High motivated person never give
+up in what I want. Open mind to learn, share and listen feedback.
+Comfortable working individuals assets and collaborations.
 
 
 ## 🌐 Socials:

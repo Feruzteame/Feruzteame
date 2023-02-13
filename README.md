@@ -1,4 +1,4 @@
-<img src="images/hero.png" width="100%" height="300" alt="html"> 
+<img src="images/hero.png" width="100%" height="350" alt="html"> 
 
  Motivated junior front-end developer. I love to learn new things so i am always in learning process to improve my skill as fullstack developer. You can reach me teamefitwi@gmail.com.
 

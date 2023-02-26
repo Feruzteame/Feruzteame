@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="100%" height="350" alt="html"> 
+<img src="images/banner.png" alt="html"> 
 
 # 💫 About Me:
 Juinor Frontend developer hunger to write code and designing. I love to solve problems that motivated me to be web developer.
